@@ -1,5 +1,6 @@
 # Sales-and-Customer-Dashboards-Dynamic-
 Executive Summary:
+
 This project showcases the development of two dynamic Tableau dashboards—Sales and Customer—aimed at addressing the business problem of underperforming product categories and fluctuating customer engagement. Leveraging skills in data visualization, KPI analysis, and trend identification, the dashboards provide actionable insights.
 Key recommendations include focusing on high-margin products, addressing the sudden profit drop, and improving customer retention strategies.
 
