@@ -17,14 +17,19 @@ What Was Accomplished:
 Sales Dashboard:
 
 Summarized total sales, profit, and quantity performance for the current and previous year.
+
 Highlighted trends across months, showing the highest and lowest sales, and tracked changes over time.
+
 Compared product subcategories for both sales and profit, revealing critical insights into product performance.
+
 Visualized weekly sales and profit data to identify patterns and deviations from average performance.
 
 Customer Dashboard:
 
 Presented a KPI overview of total customers, sales per customer, and orders for the year.
+
 Examined customer distribution by order volume, identifying loyal and high-value customers.
+
 Showcased the top 10 customers by profit, providing actionable data to improve customer retention strategies.
 
 Skills Demonstrated:
