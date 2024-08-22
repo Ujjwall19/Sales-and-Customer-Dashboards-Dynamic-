@@ -1,8 +1,5 @@
 # Sales-and-Customer-Dashboards-Dynamic-
-This repository contains Tableau dashboards designed to analyze sales and customer performance data. The project focuses on identifying key sales trends, product subcategory performance, and customer behavior to provide actionable insights for business growth and strategy optimization.
-
 Executive Summary:
-
 This project showcases the development of two dynamic Tableau dashboards—Sales and Customer—aimed at addressing the business problem of underperforming product categories and fluctuating customer engagement. Leveraging skills in data visualization, KPI analysis, and trend identification, the dashboards provide actionable insights.
 Key recommendations include focusing on high-margin products, addressing the sudden profit drop, and improving customer retention strategies.
 
